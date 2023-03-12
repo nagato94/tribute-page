@@ -1,0 +1,46 @@
+header.page-header {
+    color: #1a1a11;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    background: rgba(215,214,214,215);
+    padding: -2%;
+}
+    #body {
+      background: rgba(215,214,214,215);
+    }
+    
+     
+  #header2h2 {
+    font-size: 14px;
+    color: #0a000a;
+    text-align: center;
+  }
+  #img-div {
+    background: rgba(255,255,255,255);
+    padding-right: 25%;
+    padding-left: 30%;
+    padding-top: 1%; 
+    padding-bottom: 1%;  
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+  main {
+    background: rgba(215,214,214,215);
+    padding: 5px;
+   
+  }
+  #img-caption {
+    background: rgba(215,214,214,215);
+    text-align: center;
+    padding: 0px;
+   }
+  #h1-1 {
+    text-align: center;
+  }
+  #tribute-info {
+    text-align: center;
+    font-size: 18px;
+  }
